@@ -8,4 +8,4 @@ Cliptok
 We moved
 --------
 
-We moved! Our new home can be found `here <https://github.com/ashishdotme/ansu-bot>`_.
+We moved! Our new home can be found [here](https://github.com/ashishdotme/ansu-bot).
